@@ -1,0 +1,6 @@
+symptom_list,output,flag,username,timestamp
+"['skin_rash', 'itching']",Fungal infection,,,2022-10-28 20:20:48.357915
+"['stomach_pain', 'acidity', 'fatigue', 'weight_loss', 'dehydration']",GERD,,,2022-10-28 20:37:24.859389
+"['stomach_pain', 'acidity', 'fatigue', 'weight_loss', 'dehydration']",GERD,,,2022-10-28 20:37:28.143046
+sfegv,,,,2022-11-28 20:48:52.115267
+sfegv,,,,2022-11-28 20:48:54.274924
